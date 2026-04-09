@@ -1,20 +1,13 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I graduated with a Bachelor of Science degree in Microelectronics Science and Engineering from the College of Science, Xi'an Polytechnic University.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>18274792430@163.com</code>  
+<code>42308060229@stu.xpu.edu.cn</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
-
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Xi'an Polytechnic University**,Bachelor of Science in Microelectronics Science and Engineering  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Magnetic Flux Leakage Testing, Non-Destructive Testing, Artificial Intelligence.
